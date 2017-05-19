@@ -135,7 +135,7 @@ public class FortuneTellerApp {
 				+ " years with " + userMoney + " in the bank, \n a vacation home in " + userPlace 
 				+ " traveling " + userTransportation + ".");
 	
-		System.out.print("Thanks for playing Mystic Mickey's Fortune Telling!");
+		System.out.print("\nThanks for playing Mystical Mickey's Fortune Telling!");
 		input.close();
 	}
  
