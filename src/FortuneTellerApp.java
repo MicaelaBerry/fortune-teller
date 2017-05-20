@@ -122,6 +122,10 @@ public class FortuneTellerApp {
 			userPlace = "Paris, France";
 		System.out.println("Great! Now type in 'Fortune' and hit enter to be amazed!\n");
 		}
+		else if (userSiblings>=4) {
+			userPlace = "Dublin, Ireland";
+		System.out.println("Great! Now type in 'Fortune' and hit enter to be amazed!\n");
+		}
 
 		else {
 			userPlace = "a van down by the river";
